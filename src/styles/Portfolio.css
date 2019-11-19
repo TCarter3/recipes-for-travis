@@ -1,0 +1,20 @@
+.video-head {
+    font-size: 1.5em;
+}
+
+.video-head:hover {
+    color: #116466;
+}
+
+.video-icon {
+    padding-top: 5px;
+    color: #d1e8e2;
+}
+
+.video-icon:hover {
+    color: #116466;
+}
+
+.recipe-app-pic {
+    width: 400px;
+}

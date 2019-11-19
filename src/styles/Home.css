@@ -1,0 +1,92 @@
+.nav-pics-top {
+    position: relative;
+    top:40%;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.bubble-pic {
+    width: 200px;
+}
+
+.person-pic {
+    width: 160px;
+}
+
+.edu-pic {
+    width: 150px;
+}
+
+.laptop-pic {
+    width: 270px;
+}
+
+
+.overall-pics {
+    position: absolute;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.head-img {
+    width: 25%;
+    animation: fadeIn 3s;
+}
+
+
+.header-div {
+    padding-top: 45px;
+    display: flex;
+    justify-content: center;
+}
+
+.description-p {
+    color: #116466;
+    font-size: 2em;
+    margin-bottom: 0;
+    text-align: left;
+    animation: slideIn .75s;
+}
+
+.description-p2 {
+    color: #d1e8e2;
+    font-size: 1.5em;
+    animation: slideIn .5s;
+    text-align: left;
+}
+
+.description-p1 {
+    color: #116466;
+    margin-bottom: 0;
+    font-size: 4em;
+    animation: slideIn 1s;
+    text-align: left;
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 100;}
+}
+
+@keyframes slideIn {
+    from {
+        margin-left: 100%;
+        width: 100%;
+    }
+    to {
+        margin-left: 0%;
+        width: 100%;
+    }
+}
+
+
+
+
+
+
+
+
+

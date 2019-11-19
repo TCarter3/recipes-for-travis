@@ -1,0 +1,34 @@
+.bars {
+    padding-left: 25px;
+    color: #116466;
+    
+}
+
+.btn {
+    background: none;
+    border: none;
+    outline: none;
+}
+
+.li {
+    list-style: none;
+}
+
+.nav-btns {
+    color: #d1e8e2;
+    padding-top: 100px;
+}
+
+.name-div {
+    width: 13%;
+    display: flex;
+    justify-content: space-between;
+    margin-top:10px;
+    padding-left: 25px;
+    position: fixed;
+}
+
+.name {
+    padding-top: 4px;
+    color: #d1e8e2;
+}

@@ -1,0 +1,15 @@
+.nav-ul {
+    padding-top: 8%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.nav_p {
+    color: #d1e8e2;
+}
+
+.nav_p:hover {
+    color: #116466;
+}
